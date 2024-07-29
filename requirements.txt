@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pdf2image
+Pillow
+pytesseract
+anthropic
+nltk
+jiwer
+python-dotenv
