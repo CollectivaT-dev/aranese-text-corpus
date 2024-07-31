@@ -1,6 +1,6 @@
 # Aranese text corpus creation pipeline
 
-This repository provides a complete pipeline for extracting text from PDFs, performing OCR, correcting the OCR output using a commercial LLM, and generating a large text corpus of Occitan Aranese from the [Universitat Autonoma de Barcelona's digital repository of Aranese Press](https://ddd.uab.cat/collection/honsaran).
+This repository provides a complete pipeline for extracting text from PDFs, performing OCR, correcting the OCR output using a commercial LLM, and generating a large text corpus of Occitan Aranese from the [Universitat Autònoma de Barcelona's digital repository of Aranese Press](https://ddd.uab.cat/collection/honsaran).
 
 ## Features
 
