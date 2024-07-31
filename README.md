@@ -1,6 +1,6 @@
 # Aranese text corpus creation pipeline
 
-This repository provides a complete pipeline for extracting text from PDFs, performing OCR, correcting the OCR output using the Claude API, and generating a text corpus in Occitan Aranese. The pipeline processes publications from the [Premsa Aranesa repository](https://ddd.uab.cat/collection/honsaran).
+This repository provides a complete pipeline for extracting text from PDFs, performing OCR, correcting the OCR output using a commercial LLM, and generating a large text corpus of Occitan Aranese from the [Universitat Autonoma de Barcelona's digital repository of Aranese Press](https://ddd.uab.cat/collection/honsaran).
 
 ## Features
 
@@ -65,3 +65,12 @@ ANTHROPIC_API_KEY=your_api_key_here
 
 2. Open the notebook `Aranese text corpus.ipynb` and execute cell by cell.
 
+## Disclaimer
+
+This work is solely for research purposes, and Col·lectivaT does not hold any responsibility for its use. The material collected by running this source code is subject to the licenses specified in UAB's repository:
+
+```
+Còpia permesa amb finalitat d'estudi o recerca, citant la font: "Universitat Autònoma de Barcelona. Biblioteca de Comunicació i Hemeroteca General. CEDOC". Per a qualsevol altre ús cal demanar autorització.
+```
+
+Users must verify compliance with all applicable licenses and regulations. It is the user's responsibility to ensure that their use of this repository and the generated corpus complies with all relevant laws and policies.
